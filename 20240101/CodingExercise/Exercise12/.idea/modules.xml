@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/../Exercise1/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise10/Exercise10.iml" filepath="$PROJECT_DIR$/../Exercise10/Exercise10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise11/Exercise11.iml" filepath="$PROJECT_DIR$/../Exercise11/Exercise11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise121.iml" filepath="$PROJECT_DIR$/Exercise121.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/../Exercise2/Exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/../Exercise3/Exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/../Exercise4/Exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise5/Exercise5.iml" filepath="$PROJECT_DIR$/../Exercise5/Exercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise6/Exercise6.iml" filepath="$PROJECT_DIR$/../Exercise6/Exercise6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise7/Exercise7.iml" filepath="$PROJECT_DIR$/../Exercise7/Exercise7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise8/Exercise8.iml" filepath="$PROJECT_DIR$/../Exercise8/Exercise8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercise9/Exercise9.iml" filepath="$PROJECT_DIR$/../Exercise9/Exercise9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../FirstMethodChallenge/FirstMethodChallenge.iml" filepath="$PROJECT_DIR$/../../FirstMethodChallenge/FirstMethodChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../FirstMethodChallenge 2/FirstMethodChallenge 2.iml" filepath="$PROJECT_DIR$/../../FirstMethodChallenge 2/FirstMethodChallenge 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IfKeywordAndCodeBlocks 2/IfKeywordAndCodeBlocks 2.iml" filepath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks 2/IfKeywordAndCodeBlocks 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IfKeywordAndCodeBlocks 3/IfKeywordAndCodeBlocks 3.iml" filepath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks 3/IfKeywordAndCodeBlocks 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IfKeywordAndCodeBlocks 4/IfKeywordAndCodeBlocks 4.iml" filepath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks 4/IfKeywordAndCodeBlocks 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IfKeywordAndCodeBlocks 5/IfKeywordAndCodeBlocks 5.iml" filepath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks 5/IfKeywordAndCodeBlocks 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/../../KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
+    </modules>
+  </component>
+</project>
