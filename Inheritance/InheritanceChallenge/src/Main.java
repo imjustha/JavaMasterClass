@@ -8,8 +8,9 @@ public class Main {
         Employee joe = new Employee("Joe", "11/11/1990", "03/20/2024");
         System.out.println(joe);
 
+        SalariedEmployee haley = new SalariedEmployee("Haley", "11/11/1990", "03/20/2024", 350000);
+        System.out.println(haley);
+        System.out.println("Haley's Paycheck = $" + haley.collectPay());
+
     }
 }
-
-class SalariedEmployee
-class HourlyEmployee
