@@ -8,6 +8,9 @@ public class Account {
 
     // constructor could be used efficiently
     public Account() {
+        // this is calling another constructor within a constructor
+        // it should be before sout
+        this("56789", 2.50, "Default name", "Default address", "Default phone")
         System.out.println("Empty constructor called");
     }
     public Account(String number, double balance, String customerName, String customerEmail, String customerPhone) {

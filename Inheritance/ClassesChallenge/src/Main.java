@@ -9,12 +9,14 @@ public class Main {
 //        account.setPhoneNumber("123-123-1213");
         // instead of using those, use just constructor like below
 
-        Account account = new Account("12345", 1000.00, "myemail@gamil.com",
-                "Ha Jeong", "123-123-1213");
+//        Account account = new Account("12345", 1000.00, "myemail@gamil.com",
+//                "Ha Jeong", "123-123-1213");
+
+        Account account = new Account(); // it is related to another constructor
+
 
         System.out.println(account.getNumber());
         System.out.println(account.getBalance());
-
 
 
 
