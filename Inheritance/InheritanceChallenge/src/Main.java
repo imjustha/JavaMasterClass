@@ -12,5 +12,8 @@ public class Main {
         System.out.println(haley);
         System.out.println("Haley's Paycheck = $" + haley.collectPay());
 
+        haley.retire();
+        System.out.println("Haley's Pension check = $" + haley.collectPay());
+
     }
 }

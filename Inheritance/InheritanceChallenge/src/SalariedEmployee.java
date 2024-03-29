@@ -9,6 +9,15 @@ public class SalariedEmployee extends Employee{
 
     @Override
     public double collectPay(){
-        return (int) annualSalary / 26;
+//        return (int) annualSalary / 26;
+        double paycheck = annualSalary / 26;
+        double adjustedPay = (isRetired) ? 0.9 * paycheck : paycheck;
+
+        return (int) adjustedPay;
+    }
+
+    public void retire(){
+        terminate("12/12/2024");
+        isRetired = true;
     }
 }
