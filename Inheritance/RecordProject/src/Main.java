@@ -11,6 +11,7 @@ public class Main {
                         default -> "Anonymous";
                     },
                     "01/31/1998", "Java Master Class");
+            System.out.println(s);
         }
     }
 }
