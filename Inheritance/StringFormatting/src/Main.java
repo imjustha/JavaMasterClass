@@ -6,5 +6,12 @@ public class Main {
                 "\u2022 Sub Point";
 
         System.out.println(bulletIt);
+
+        String bulletIt = "Print a Bulleted List:\n" +
+                "\t\u2022 First Point\n" +
+                "\t\t\u2022 Sub Point";
+
+        System.out.println(bulletIt);
+        
     }
 }
