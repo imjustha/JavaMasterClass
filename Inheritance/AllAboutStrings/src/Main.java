@@ -12,6 +12,26 @@ public class Main {
 
         System.out.printf("index of l = %d %n", helloworld.indexOf('l', 3));
         System.out.printf("index of l = %d %n", helloworld.lastIndexOf('l', 8));
+
+        String helloWorldLower = helloworld.toLowerCase();
+        if(helloworld.equals(helloWorldLower)){
+            System.out.println("Values match exactly");
+        }
+        if(helloworld.equalsIgnoreCase(helloWorldLower)){
+            System.out.println("Values match ignoring case");
+        }
+        if(helloworld.startsWith("Hello")){
+            System.out.println("String starts with Hello");
+        }
+        if(helloworld.endsWith("World")){
+            System.out.println("String ends with World");
+        }
+        if(helloworld.contains("World")){
+            System.out.println("String contains World");
+        }
+        if(helloworld.contentEquals("Hello World")){
+            System.out.println("Values match exactly");
+        }
     }
 
     public static void printInformation(String string){
