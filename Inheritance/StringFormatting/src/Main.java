@@ -20,10 +20,15 @@ public class Main {
         System.out.println(textBlock);
 
         int age = 35;
-        System.out.printf("Your age is %d\n", age);
+        System.out.printf("Your age is %d%n", age);
 
         int yearOfBirth = 2023 - age;
-        System.out.printf("Age = %d, Birth year = %d", age, yearOfBirth);
+        System.out.printf("Age = %d, Birth year = %d%n", age, yearOfBirth);
+
+        System.out.printf("Your age is %f%n", (float)age);
+        System.out.printf("Your age is %.2f%n", (float)age);
+
+        
 
     }
 }
