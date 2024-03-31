@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args){
         printInformation("Hello World");
         printInformation("");
+        printInformation("\t    \n");
     }
 
     public static void printInformation(String string){
@@ -11,6 +12,10 @@ public class Main {
             System.out.println("This string is empty");
             return;
         }
+        if(string.isBlank()){
+            System.out.println("String is Blank");
+        }
+
         System.out.printf("First char = %c %n", string.charAt(0));
 
         System.out.printf("Last char = %c %n", string.charAt(length - 1));
