@@ -28,7 +28,9 @@ public class Main {
         System.out.printf("Your age is %f%n", (float)age);
         System.out.printf("Your age is %.2f%n", (float)age);
 
-        
+        for(int i = 1; i < 100000; i *= 10){
+            System.out.printf("Printing %6d %n", i);
+        }
 
     }
 }
