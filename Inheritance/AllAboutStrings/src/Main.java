@@ -3,6 +3,15 @@ public class Main {
         printInformation("Hello World");
         printInformation("");
         printInformation("\t    \n");
+
+        String helloworld = "Hello World";
+        System.out.printf("index of r = %d %n", helloworld.indexOf('r'));
+        System.out.printf("index of World = %d %n", helloworld.indexOf("World"));
+        System.out.printf("index of l = %d %n", helloworld.indexOf('l'));
+        System.out.printf("index of l = %d %n", helloworld.lastIndexOf('l'));
+
+        System.out.printf("index of l = %d %n", helloworld.indexOf('l', 3));
+        System.out.printf("index of l = %d %n", helloworld.lastIndexOf('l', 8));
     }
 
     public static void printInformation(String string){
